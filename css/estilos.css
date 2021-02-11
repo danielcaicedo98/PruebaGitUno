@@ -1,7 +1,7 @@
 @charset "utf-8"
     body {
-        background-color: #00F;
+        background-color: blue;
         font-weight:bold;
-        color:#F00;
+        color:red;
         font-size: 18px;
 }    
